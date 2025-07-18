@@ -1,7 +1,7 @@
 Here is the refactored code with the necessary improvements:
 
 ```
-# Refactored by Senior Staff Software Engineer
+# Refactored 
 # Changes:
 # 1. Removed hardcoded API keys and used environment variables instead.
 # 2. Parameterized hardcoded values such as URLs and pathnames.
