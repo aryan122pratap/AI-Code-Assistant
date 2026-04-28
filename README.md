@@ -33,7 +33,7 @@ Instead of using one large AI prompt, I designed a system with three specialized
 #### 2. Installation
 Ⅰ- First, clone the repository and navigate into the project folder:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/aryan122pratap/AI-Code-Assistant.git
 cd AI-Code-Assistant
 ```
 Ⅱ- Next, set up and activate a virtual environment:
